@@ -63,7 +63,7 @@ function draw() {
   rect(200,100,100,100);
 
   //Cut out Rectangles - Base
-  fill(300,64,128,50);
+  fill(300,64,64,50);
   rect(100,200,100,100);
 
   fill(40,128,64,40);
