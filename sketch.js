@@ -56,7 +56,7 @@ function draw() {
   rect(200,200,200,200);
 
   //Cut out Rectangles - Top
-  fill(300,128,128,50);
+  fill(300,64,128,50);
   rect(100,100,100,100);
 
   fill(300,128,64,50);
